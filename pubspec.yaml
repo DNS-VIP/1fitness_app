@@ -1,5 +1,5 @@
 name: fitness_app
-description: Домашний фитнес-приложение с отслеживанием прогресса.
+description: Домашний фитнес-приложение с прогрессом.
 version: 1.0.0+1
 
 environment:
